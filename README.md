@@ -37,7 +37,7 @@
 
 ## Модули ViPER
 
-XBass, XBass Mono, XClarity, 3D Surround / VHE, Reverb, Convolver, DDC, AGC / Playback Gain, Dynamic System, Spectrum Extension, Field Surround, Diff Surround, Cure, Tube Simulator, AnalogX, FET Compressor, Speaker Correction
+XBass, XBass Mono, XClarity, 3D Surround - VHE, Reverb, Convolver, DDC, AGC - Playback Gain, Dynamic System, Spectrum Extension, Field Surround, Diff Surround, Cure, Tube Simulator, AnalogX, FET Compressor, Speaker Correction
 
 ## Интеграция с драйвером
 
